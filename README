@@ -1,0 +1,5 @@
+This program draws heavily from several Geant4 examples.
+Each file states which example it originates from.
+
+5.5 MeV electrons are shoot onto an Al layer of variable thickness.
+The spectra of electrons and photons are recorded after the absorber.
